@@ -1,0 +1,19 @@
+Enzyme-JAX rewrite-soundness gate
+Copyright (c) 2026 June Kim
+
+This work is dual-licensed, at the recipient's option, under either:
+
+  * the GNU Affero General Public License v3.0 (AGPL-3.0), the full text of
+    which is in the file LICENSE; or
+
+  * CC BY-SA-NS: the Creative Commons Attribution-ShareAlike 4.0 International
+    license with a Network Services clause (requiring Corresponding Source
+    availability when a Derivative Work is used to provide a network service),
+    full text at: https://june.kim/cc-by-sa-ns
+
+Both options are copyleft and close the SaaS loophole; AGPL-3.0 is a compatible
+license under the Network Services clause.
+
+As sole copyright holder the author reserves the right to dual-license. Outside
+contributions are accepted only under a contributor license agreement (CLA) that
+preserves this.

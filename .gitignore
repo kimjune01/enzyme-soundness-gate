@@ -1,0 +1,8 @@
+# Strategy / working notes stay private (paper notes, novelty fan-out, issue drafts)
+_drafts/
+ISSUE_DRAFT.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
